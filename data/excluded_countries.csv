@@ -1,0 +1,55 @@
+country_code,country_name,exclusion_reason
+ABW,Aruba,No reported business density data in source period
+AND,Andorra,No reported business density data in source period
+ASM,American Samoa,No reported business density data in source period
+ATG,Antigua and Barbuda,No reported business density data in source period
+BHS,"Bahamas, The",No reported business density data in source period
+BMU,Bermuda,Offshore financial center — governance/labor data unavailable
+CHI,Channel Islands,Offshore financial center — governance/labor data unavailable
+CMR,Cameroon,No reported business density data in source period
+CUB,Cuba,No reported business density data in source period
+CUW,Curacao,Offshore financial center — governance/labor data unavailable
+CYM,Cayman Islands,Offshore financial center — governance/labor data unavailable
+DMA,Dominica,No reported business density data in source period
+ERI,Eritrea,No reported business density data in source period
+FRO,Faroe Islands,No reported business density data in source period
+FSM,"Micronesia, Fed. Sts.",No reported business density data in source period
+GIB,Gibraltar,Offshore financial center — governance/labor data unavailable
+GNQ,Equatorial Guinea,No reported business density data in source period
+GRD,Grenada,No reported business density data in source period
+GRL,Greenland,No reported business density data in source period
+GUM,Guam,No reported business density data in source period
+HKG,"Hong Kong SAR, China",No reported business density data in source period
+IMN,Isle of Man,Offshore financial center — governance/labor data unavailable
+KIR,Kiribati,No reported business density data in source period
+KNA,St. Kitts and Nevis,No reported business density data in source period
+LBN,Lebanon,No reported business density data in source period
+LBY,Libya,No reported business density data in source period
+LIE,Liechtenstein,No reported business density data in source period
+MAC,"Macao SAR, China",No reported business density data in source period
+MAF,St. Martin (French part),No reported business density data in source period
+MCO,Monaco,Offshore financial center — governance/labor data unavailable
+MHL,Marshall Islands,No reported business density data in source period
+MNP,Northern Mariana Islands,No reported business density data in source period
+NCL,New Caledonia,No reported business density data in source period
+NIC,Nicaragua,No reported business density data in source period
+NRU,Naoero,No reported business density data in source period
+PLW,Palau,No reported business density data in source period
+PRI,Puerto Rico (US),No reported business density data in source period
+PRK,"Korea, Dem. People's Rep.",No reported business density data in source period
+PSE,West Bank and Gaza,No reported business density data in source period
+PYF,French Polynesia,No reported business density data in source period
+SDN,Sudan,No reported business density data in source period
+SMR,San Marino,No reported business density data in source period
+SXM,Sint Maarten (Dutch part),No reported business density data in source period
+SYC,Seychelles,No reported business density data in source period
+SYR,Syrian Arab Republic,No reported business density data in source period
+TCA,Turks and Caicos Islands,No reported business density data in source period
+TKM,Turkmenistan,No reported business density data in source period
+TUV,Tuvalu,No reported business density data in source period
+USA,United States,No reported business density data in source period
+VEN,"Venezuela, RB",No reported business density data in source period
+VGB,British Virgin Islands,Offshore financial center — governance/labor data unavailable
+VIR,Virgin Islands (U.S.),No reported business density data in source period
+XKX,Kosovo,No reported business density data in source period
+YEM,"Yemen, Rep.",No reported business density data in source period

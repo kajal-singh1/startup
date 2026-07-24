@@ -1,0 +1,8 @@
+indicator,status,rows
+EN.GHG.CO2.PC.CE.AR5,success,5000
+GOV_WGI_GE.EST,success,4003
+GOV_WGI_RQ.EST,success,4001
+GOV_WGI_RL.EST,success,4043
+GOV_WGI_CC.EST,success,4014
+GOV_WGI_PV.EST,success,4043
+GOV_WGI_VA.EST,success,4028

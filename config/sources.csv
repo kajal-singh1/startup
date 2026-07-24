@@ -1,0 +1,7 @@
+source_name,official_name,website,license,priority,status
+world_bank,World Bank Open Data,https://api.worldbank.org,Open Data License,1,Active
+wipo,World Intellectual Property Organization,https://www.wipo.int,Open Data,2,Pending
+wgi,Worldwide Governance Indicators,https://www.worldbank.org/en/publication/worldwide-governance-indicators,Open Data,3,Pending
+unesco,UNESCO Institute for Statistics,https://uis.unesco.org,Open Data,4,Pending
+openalex,OpenAlex,https://openalex.org,CC0,5,Pending
+startupblink,StartupBlink,https://www.startupblink.com,Free Reports,6,Pending

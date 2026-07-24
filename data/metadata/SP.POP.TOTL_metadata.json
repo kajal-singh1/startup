@@ -1,0 +1,8 @@
+{
+    "indicator_code": "SP.POP.TOTL",
+    "download_time": "2026-07-15 20:28:55",
+    "study_period": "2005-2025",
+    "rows": 5544,
+    "countries": 261,
+    "file": "data\\raw\\world_bank\\SP.POP.TOTL.csv"
+}

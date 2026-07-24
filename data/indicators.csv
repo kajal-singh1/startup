@@ -1,0 +1,36 @@
+variable_name,display_name,indicator_code,category,unit,required
+gdp_usd,GDP (Current US$),NY.GDP.MKTP.CD,Economy,USD,Yes
+gdp_per_capita,GDP per Capita,NY.GDP.PCAP.CD,Economy,USD,Yes
+gdp_growth,GDP Growth,NY.GDP.MKTP.KD.ZG,Economy,Percent,Yes
+inflation,Inflation (CPI),FP.CPI.TOTL.ZG,Economy,Percent,Yes
+fdi_net_inflows,FDI Net Inflows,BX.KLT.DINV.CD.WD,Economy,USD,Yes
+trade_percent_gdp,Trade (% GDP),NE.TRD.GNFS.ZS,Economy,Percent,Yes
+exports_percent_gdp,Exports (% GDP),NE.EXP.GNFS.ZS,Economy,Percent,Yes
+imports_percent_gdp,Imports (% GDP),NE.IMP.GNFS.ZS,Economy,Percent,Yes
+gross_capital_formation,Gross Capital Formation,NE.GDI.TOTL.ZS,Economy,Percent,Yes
+population,Population,SP.POP.TOTL,Population,Count,Yes
+population_growth,Population Growth,SP.POP.GROW,Population,Percent,Yes
+urban_population_percent,Urban Population,SP.URB.TOTL.IN.ZS,Population,Percent,Yes
+population_density,Population Density,EN.POP.DNST,Population,People per sq. km,Yes
+unemployment_rate,Unemployment Rate,SL.UEM.TOTL.ZS,Labour,Percent,Yes
+labor_force_participation,Labor Force Participation,SL.TLF.CACT.ZS,Labour,Percent,Yes
+internet_users,Internet Users,IT.NET.USER.ZS,Digital,Percent,Yes
+mobile_subscriptions,Mobile Subscriptions,IT.CEL.SETS.P2,Digital,Per 100 People,Yes
+broadband_subscriptions,Broadband Subscriptions,IT.NET.BBND.P2,Digital,Per 100 People,Yes
+secure_servers,Secure Internet Servers,IT.NET.SECR.P6,Digital,Per Million People,Yes
+education_expenditure,Education Expenditure,SE.XPD.TOTL.GD.ZS,Education,Percent GDP,Yes
+tertiary_enrollment,Tertiary Enrollment,SE.TER.ENRR,Education,Percent,Yes
+rd_expenditure,R&D Expenditure,GB.XPD.RSDV.GD.ZS,Innovation,Percent GDP,Yes
+hightech_exports,High-tech Exports,TX.VAL.TECH.MF.ZS,Innovation,Percent,Yes
+domestic_credit,Domestic Credit,FS.AST.PRVT.GD.ZS,Finance,Percent GDP,Yes
+broad_money,Broad Money,FM.LBL.BMNY.GD.ZS,Finance,Percent GDP,Yes
+renewable_energy,Renewable Energy,EG.FEC.RNEW.ZS,Environment,Percent,Optional
+co2_per_capita,CO2 Emissions,EN.GHG.CO2.PC.CE.AR5,Environment,Tonnes,Optional
+government_effectiveness,Government Effectiveness,GOV_WGI_GE.EST,Governance,Index (-2.5 to 2.5),Yes
+regulatory_quality,Regulatory Quality,GOV_WGI_RQ.EST,Governance,Index (-2.5 to 2.5),Yes
+rule_of_law,Rule of Law,GOV_WGI_RL.EST,Governance,Index (-2.5 to 2.5),Yes
+control_of_corruption,Control of Corruption,GOV_WGI_CC.EST,Governance,Index (-2.5 to 2.5),Yes
+political_stability,Political Stability,GOV_WGI_PV.EST,Governance,Index (-2.5 to 2.5),Yes
+voice_accountability,Voice and Accountability,GOV_WGI_VA.EST,Governance,Index (-2.5 to 2.5),Yes
+new_business_density,New Business Density,IC.BUS.NDNS.ZS,Startup,"New registrations per 1,000 people 15-64",Yes
+new_businesses_registered,New Businesses Registered,IC.BUS.NREG,Startup,Count,Yes

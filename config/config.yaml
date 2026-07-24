@@ -1,0 +1,36 @@
+# ==========================================
+# Startup Growth Analytics System
+# Configuration File
+# ==========================================
+
+project:
+  name: Startup Growth Analytics System
+  version: "1.0.0"
+  author: Your Name
+
+study_period:
+  start_year: 2005
+  end_year: 2025
+
+paths:
+  raw_data: data/raw
+  cleaned_data: data/cleaned
+  master_data: data/master
+  metadata: data/metadata
+  logs: logs
+  outputs: outputs
+
+world_bank:
+  base_url: "https://api.worldbank.org/v2"
+  format: "json"
+  per_page: 20000
+  timeout: 60
+  max_retries: 3
+
+logging:
+  level: INFO
+  log_file: logs/project.log
+
+output:
+  file_format: csv
+  encoding: utf-8

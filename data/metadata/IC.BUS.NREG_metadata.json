@@ -1,0 +1,8 @@
+{
+    "indicator_code": "IC.BUS.NREG",
+    "download_time": "2026-07-16 11:41:42",
+    "study_period": "2005-2025",
+    "rows": 2911,
+    "countries": 183,
+    "file": "data\\raw\\world_bank\\IC.BUS.NREG.csv"
+}

@@ -1,0 +1,8 @@
+{
+    "indicator_code": "EG.FEC.RNEW.ZS",
+    "download_time": "2026-07-15 20:29:09",
+    "study_period": "2005-2025",
+    "rows": 4413,
+    "countries": 256,
+    "file": "data\\raw\\world_bank\\EG.FEC.RNEW.ZS.csv"
+}

@@ -1,0 +1,8 @@
+{
+    "indicator_code": "NY.GDP.PCAP.CD",
+    "download_time": "2026-07-15 20:28:42",
+    "study_period": "2005-2025",
+    "rows": 5379,
+    "countries": 258,
+    "file": "data\\raw\\world_bank\\NY.GDP.PCAP.CD.csv"
+}

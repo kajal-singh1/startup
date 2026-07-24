@@ -1,0 +1,8 @@
+{
+    "indicator_code": "GOV_WGI_CC.EST",
+    "download_time": "2026-07-16 12:40:50",
+    "study_period": "2005-2025",
+    "rows": 4014,
+    "countries": 194,
+    "file": "data\\raw\\world_bank\\GOV_WGI_CC.EST.csv"
+}

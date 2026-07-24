@@ -1,0 +1,8 @@
+{
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "download_time": "2026-07-15 20:28:43",
+    "study_period": "2005-2025",
+    "rows": 5334,
+    "countries": 258,
+    "file": "data\\raw\\world_bank\\NY.GDP.MKTP.KD.ZG.csv"
+}

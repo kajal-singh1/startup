@@ -1,0 +1,145 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ==========================
+# Virtual Environments
+# ==========================
+venv/
+.venv/
+env/
+ENV/
+virtualenv/
+
+# ==========================
+# Environment Variables
+# ==========================
+.env
+.env.*
+*.env
+
+# ==========================
+# Jupyter Notebook
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# VS Code
+# ==========================
+.vscode/
+
+# ==========================
+# PyCharm
+# ==========================
+.idea/
+
+# ==========================
+# Logs
+# ==========================
+logs/
+*.log
+
+# ==========================
+# Python Testing
+# ==========================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# ==========================
+# Type Checkers
+# ==========================
+.mypy_cache/
+.pyre/
+.pytype/
+
+# ==========================
+# Caches
+# ==========================
+.cache/
+.pycache/
+
+# ==========================
+# OS Files
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================
+# Temporary Files
+# ==========================
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# ==========================
+# Data Files (Optional)
+# Uncomment if datasets are huge
+# ==========================
+# data/raw/
+# data/processed/
+# *.csv
+# *.xlsx
+# *.parquet
+# *.zip
+
+# ==========================
+# Model Files (Optional)
+# Uncomment if models are large
+# ==========================
+# *.pkl
+# *.joblib
+# *.h5
+# *.keras
+# *.pt
+# *.pth
+# *.onnx
+
+# ==========================
+# Outputs (Optional)
+# ==========================
+# outputs/
+# reports/
+# figures/
+# results/
+
+# ==========================
+# Secrets
+# ==========================
+secrets.json
+credentials.json
+service_account.json
+*.pem
+*.key
+
+# ==========================
+# Misc
+# ==========================
+*.bak
+*.orig

@@ -1,0 +1,296 @@
+alpha3,iso2Code,name
+ABW,AW,Aruba
+AFE,ZH,Africa Eastern and Southern
+AFG,AF,Afghanistan
+AFR,A9,Africa
+AFW,ZI,Africa Western and Central
+AGO,AO,Angola
+ALB,AL,Albania
+AND,AD,Andorra
+ARB,1A,Arab World
+ARE,AE,United Arab Emirates
+ARG,AR,Argentina
+ARM,AM,Armenia
+ASM,AS,American Samoa
+ATG,AG,Antigua and Barbuda
+AUS,AU,Australia
+AUT,AT,Austria
+AZE,AZ,Azerbaijan
+BDI,BI,Burundi
+BEA,B4,East Asia & Pacific (IBRD-only countries)
+BEC,B7,Europe & Central Asia (IBRD-only countries)
+BEL,BE,Belgium
+BEN,BJ,Benin
+BFA,BF,Burkina Faso
+BGD,BD,Bangladesh
+BGR,BG,Bulgaria
+BHI,B1,IBRD countries classified as high income
+BHR,BH,Bahrain
+BHS,BS,"Bahamas, The"
+BIH,BA,Bosnia and Herzegovina
+BLA,B2,Latin America & the Caribbean (IBRD-only countries)
+BLR,BY,Belarus
+BLZ,BZ,Belize
+BMN,B3,"Middle East, North Africa, Afghanistan & Pakistan (IBRD only)"
+BMU,BM,Bermuda
+BOL,BO,Bolivia
+BRA,BR,Brazil
+BRB,BB,Barbados
+BRN,BN,Brunei Darussalam
+BSS,B6,Sub-Saharan Africa (IBRD-only countries)
+BTN,BT,Bhutan
+BWA,BW,Botswana
+CAA,C9,Sub-Saharan Africa (IFC classification)
+CAF,CF,Central African Republic
+CAN,CA,Canada
+CEA,C4,East Asia and the Pacific (IFC classification)
+CEB,B8,Central Europe and the Baltics
+CEU,C5,Europe and Central Asia (IFC classification)
+CHE,CH,Switzerland
+CHI,JG,Channel Islands
+CHL,CL,Chile
+CHN,CN,China
+CIV,CI,Cote d'Ivoire
+CLA,C6,Latin America and the Caribbean (IFC classification)
+CME,C7,Middle East and North Africa (IFC classification)
+CMR,CM,Cameroon
+COD,CD,"Congo, Dem. Rep."
+COG,CG,"Congo, Rep."
+COL,CO,Colombia
+COM,KM,Comoros
+CPV,CV,Cabo Verde
+CRI,CR,Costa Rica
+CSA,C8,South Asia (IFC classification)
+CSS,S3,Caribbean small states
+CUB,CU,Cuba
+CUW,CW,Curacao
+CYM,KY,Cayman Islands
+CYP,CY,Cyprus
+CZE,CZ,Czechia
+DEA,D4,East Asia & Pacific (IDA-eligible countries)
+DEC,D7,Europe & Central Asia (IDA-eligible countries)
+DEU,DE,Germany
+DJI,DJ,Djibouti
+DLA,D2,Latin America & the Caribbean (IDA-eligible countries)
+DMA,DM,Dominica
+DMN,D3,"Middle East, North Africa, Afghanistan & Pakistan (IDA total)"
+DNK,DK,Denmark
+DNS,N6,IDA countries in Sub-Saharan Africa not classified as fragile situations 
+DOM,DO,Dominican Republic
+DSA,D5,South Asia (IDA-eligible countries)
+DSF,F6,IDA countries in Sub-Saharan Africa classified as fragile situations 
+DSS,D6,Sub-Saharan Africa (IDA-eligible countries)
+DZA,DZ,Algeria
+EAP,4E,East Asia & Pacific (excluding high income)
+EAR,V2,Early-demographic dividend
+EAS,Z4,East Asia & Pacific
+ECA,7E,Europe & Central Asia (excluding high income)
+ECS,Z7,Europe & Central Asia
+ECU,EC,Ecuador
+EGY,EG,"Egypt, Arab Rep."
+EMU,XC,Euro area
+ERI,ER,Eritrea
+ESP,ES,Spain
+EST,EE,Estonia
+ETH,ET,Ethiopia
+EUU,EU,European Union
+FIN,FI,Finland
+FJI,FJ,Fiji
+FRA,FR,France
+FRO,FO,Faroe Islands
+FSM,FM,"Micronesia, Fed. Sts."
+FXS,6F,"IDA countries classified as fragile situations, excluding Sub-Saharan Africa"
+GAB,GA,Gabon
+GBR,GB,United Kingdom
+GEO,GE,Georgia
+GHA,GH,Ghana
+GIB,GI,Gibraltar
+GIN,GN,Guinea
+GMB,GM,"Gambia, The"
+GNB,GW,Guinea-Bissau
+GNQ,GQ,Equatorial Guinea
+GRC,GR,Greece
+GRD,GD,Grenada
+GRL,GL,Greenland
+GTM,GT,Guatemala
+GUM,GU,Guam
+GUY,GY,Guyana
+HIC,XD,High income
+HKG,HK,"Hong Kong SAR, China"
+HND,HN,Honduras
+HPC,XE,Heavily indebted poor countries (HIPC)
+HRV,HR,Croatia
+HTI,HT,Haiti
+HUN,HU,Hungary
+IBB,ZB,"IBRD, including blend"
+IBD,XF,IBRD only
+IBT,ZT,IDA & IBRD total
+IDA,XG,IDA total
+IDB,XH,IDA blend
+IDN,ID,Indonesia
+IDX,XI,IDA only
+IMN,IM,Isle of Man
+IND,IN,India
+INX,XY,Not classified
+IRL,IE,Ireland
+IRN,IR,"Iran, Islamic Rep."
+IRQ,IQ,Iraq
+ISL,IS,Iceland
+ISR,IL,Israel
+ITA,IT,Italy
+JAM,JM,Jamaica
+JOR,JO,Jordan
+JPN,JP,Japan
+KAZ,KZ,Kazakhstan
+KEN,KE,Kenya
+KGZ,KG,Kyrgyz Republic
+KHM,KH,Cambodia
+KIR,KI,Kiribati
+KNA,KN,St. Kitts and Nevis
+KOR,KR,"Korea, Rep."
+KWT,KW,Kuwait
+LAC,XJ,Latin America & Caribbean (excluding high income)
+LAO,LA,Lao PDR
+LBN,LB,Lebanon
+LBR,LR,Liberia
+LBY,LY,Libya
+LCA,LC,St. Lucia
+LCN,ZJ,Latin America & Caribbean 
+LDC,XL,Least developed countries: UN classification
+LIC,XM,Low income
+LIE,LI,Liechtenstein
+LKA,LK,Sri Lanka
+LMC,XN,Lower middle income
+LMY,XO,Low & middle income
+LSO,LS,Lesotho
+LTE,V3,Late-demographic dividend
+LTU,LT,Lithuania
+LUX,LU,Luxembourg
+LVA,LV,Latvia
+MAC,MO,"Macao SAR, China"
+MAF,MF,St. Martin (French part)
+MAR,MA,Morocco
+MCO,MC,Monaco
+MDA,MD,Moldova
+MDE,M1,Middle East (developing only)
+MDG,MG,Madagascar
+MDV,MV,Maldives
+MEA,ZQ,"Middle East, North Africa, Afghanistan & Pakistan"
+MEX,MX,Mexico
+MHL,MH,Marshall Islands
+MIC,XP,Middle income
+MKD,MK,North Macedonia
+MLI,ML,Mali
+MLT,MT,Malta
+MMR,MM,Myanmar
+MNA,XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+MNE,ME,Montenegro
+MNG,MN,Mongolia
+MNP,MP,Northern Mariana Islands
+MOZ,MZ,Mozambique
+MRT,MR,Mauritania
+MUS,MU,Mauritius
+MWI,MW,Malawi
+MYS,MY,Malaysia
+NAC,XU,North America
+NAF,M2,North Africa
+NAM,NA,Namibia
+NCL,NC,New Caledonia
+NER,NE,Niger
+NGA,NG,Nigeria
+NIC,NI,Nicaragua
+NLD,NL,Netherlands
+NOR,NO,Norway
+NPL,NP,Nepal
+NRS,6X,Non-resource rich Sub-Saharan Africa countries
+NRU,NR,Naoero
+NXS,6N,"IDA countries not classified as fragile situations, excluding Sub-Saharan Africa"
+NZL,NZ,New Zealand
+OED,OE,OECD members
+OMN,OM,Oman
+OSS,S4,Other small states
+PAK,PK,Pakistan
+PAN,PA,Panama
+PER,PE,Peru
+PHL,PH,Philippines
+PLW,PW,Palau
+PNG,PG,Papua New Guinea
+POL,PL,Poland
+PRE,V1,Pre-demographic dividend
+PRI,PR,Puerto Rico (US)
+PRK,KP,"Korea, Dem. People's Rep."
+PRT,PT,Portugal
+PRY,PY,Paraguay
+PSE,PS,West Bank and Gaza
+PSS,S2,Pacific island small states
+PST,V4,Post-demographic dividend
+PYF,PF,French Polynesia
+QAT,QA,Qatar
+ROU,RO,Romania
+RRS,R6,Resource rich Sub-Saharan Africa countries
+RUS,RU,Russian Federation
+RWA,RW,Rwanda
+SAS,8S,South Asia
+SAU,SA,Saudi Arabia
+SDN,SD,Sudan
+SEN,SN,Senegal
+SGP,SG,Singapore
+SLB,SB,Solomon Islands
+SLE,SL,Sierra Leone
+SLV,SV,El Salvador
+SMR,SM,San Marino
+SOM,SO,"Somalia, Fed. Rep."
+SRB,RS,Serbia
+SSA,ZF,Sub-Saharan Africa (excluding high income)
+SSD,SS,South Sudan
+SSF,ZG,Sub-Saharan Africa 
+SST,S1,Small states
+STP,ST,Sao Tome and Principe
+SUR,SR,Suriname
+SVK,SK,Slovak Republic
+SVN,SI,Slovenia
+SWE,SE,Sweden
+SWZ,SZ,Eswatini
+SXM,SX,Sint Maarten (Dutch part)
+SXZ,A4,Sub-Saharan Africa excluding South Africa
+SYC,SC,Seychelles
+SYR,SY,Syrian Arab Republic
+TCA,TC,Turks and Caicos Islands
+TCD,TD,Chad
+TEA,T4,East Asia & Pacific (IDA & IBRD countries)
+TEC,T7,Europe & Central Asia (IDA & IBRD countries)
+TGO,TG,Togo
+THA,TH,Thailand
+TJK,TJ,Tajikistan
+TKM,TM,Turkmenistan
+TLA,T2,Latin America & the Caribbean (IDA & IBRD countries)
+TLS,TL,Timor-Leste
+TMN,T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+TON,TO,Tonga
+TSA,T5,South Asia (IDA & IBRD)
+TSS,T6,Sub-Saharan Africa (IDA & IBRD countries)
+TTO,TT,Trinidad and Tobago
+TUN,TN,Tunisia
+TUR,TR,Turkiye
+TUV,TV,Tuvalu
+TZA,TZ,Tanzania
+UGA,UG,Uganda
+UKR,UA,Ukraine
+UMC,XT,Upper middle income
+URY,UY,Uruguay
+USA,US,United States
+UZB,UZ,Uzbekistan
+VCT,VC,St. Vincent and the Grenadines
+VEN,VE,"Venezuela, RB"
+VGB,VG,British Virgin Islands
+VIR,VI,Virgin Islands (U.S.)
+VNM,VN,Viet Nam
+VUT,VU,Vanuatu
+WLD,1W,World
+WSM,WS,Samoa
+XKX,XK,Kosovo
+XZN,A5,Sub-Saharan Africa excluding South Africa and Nigeria
+YEM,YE,"Yemen, Rep."
+ZAF,ZA,South Africa
+ZMB,ZM,Zambia
+ZWE,ZW,Zimbabwe
