@@ -102,12 +102,18 @@ desktop.ini
 # Data Files (Optional)
 # Uncomment if datasets are huge
 # ==========================
-# data/raw/
-# data/processed/
-# *.csv
-# *.xlsx
-# *.parquet
-# *.zip
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.parquet
+*.zip
+
+# Exceptions: dashboard needs these specific CSVs at runtime
+!data/eda_output.csv
+!data/dashboard_predictions_full.csv
+!data/excluded_countries.csv
+!data/indicators.csv
 
 # ==========================
 # Model Files (Optional)
